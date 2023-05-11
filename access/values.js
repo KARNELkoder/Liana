@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "22.04.1984"; // Дата рождения
-var fullname = "Шаркозі Ахмед Анатолійовеч" // ФИО
+var birthdate = "10.08.2003"; // Дата рождения
+var fullname = "Рупаєвський Юрій Володимирович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
