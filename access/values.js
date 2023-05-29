@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "16.09.2004"; // Дата рождения
-var fullname = "Яцишен Максим Вікторович" // ФИО
+var birthdate = "27.03.2005"; // Дата рождения
+var fullname = "Корнієнко Олександр Сергійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
