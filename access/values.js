@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "24.10.1993"; // Дата рождения
-var fullname = "Вербенко Артур Миколайович" // ФИО
+var birthdate = "16.09.2004"; // Дата рождения
+var fullname = "Яцишен Максим Вікторович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
