@@ -3,12 +3,12 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "27.03.2005"; // Дата рождения
-var fullname = "Корнієнко Олександр Сергійович" // ФИО
+var birthdate = "15.10.2005"; // Дата рождения
+var fullname = "Новикова Лиана Александровна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
-var passport_id = "3872011238" // Номер паспорта
+var passport_id = "3875341238" // Номер паспорта
 
 // КПП
 var kpp_id = "3872011238" // ИНН
